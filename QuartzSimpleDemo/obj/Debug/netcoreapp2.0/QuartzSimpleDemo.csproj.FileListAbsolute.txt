@@ -1,0 +1,11 @@
+C:\Users\paulo.vieira\Downloads\QuartzSimpleDemo\QuartzSimpleDemo\obj\Debug\netcoreapp2.0\QuartzSimpleDemo.csproj.CoreCompileInputs.cache
+C:\Users\paulo.vieira\Downloads\QuartzSimpleDemo\QuartzSimpleDemo\obj\Debug\netcoreapp2.0\QuartzSimpleDemo.AssemblyInfoInputs.cache
+C:\Users\paulo.vieira\Downloads\QuartzSimpleDemo\QuartzSimpleDemo\obj\Debug\netcoreapp2.0\QuartzSimpleDemo.AssemblyInfo.cs
+C:\Users\paulo.vieira\Downloads\QuartzSimpleDemo\QuartzSimpleDemo\bin\Debug\netcoreapp2.0\QuartzSimpleDemo.deps.json
+C:\Users\paulo.vieira\Downloads\QuartzSimpleDemo\QuartzSimpleDemo\bin\Debug\netcoreapp2.0\QuartzSimpleDemo.runtimeconfig.json
+C:\Users\paulo.vieira\Downloads\QuartzSimpleDemo\QuartzSimpleDemo\bin\Debug\netcoreapp2.0\QuartzSimpleDemo.runtimeconfig.dev.json
+C:\Users\paulo.vieira\Downloads\QuartzSimpleDemo\QuartzSimpleDemo\bin\Debug\netcoreapp2.0\QuartzSimpleDemo.dll
+C:\Users\paulo.vieira\Downloads\QuartzSimpleDemo\QuartzSimpleDemo\obj\Debug\netcoreapp2.0\QuartzSimpleDemo.csprojAssemblyReference.cache
+C:\Users\paulo.vieira\Downloads\QuartzSimpleDemo\QuartzSimpleDemo\bin\Debug\netcoreapp2.0\QuartzSimpleDemo.pdb
+C:\Users\paulo.vieira\Downloads\QuartzSimpleDemo\QuartzSimpleDemo\obj\Debug\netcoreapp2.0\QuartzSimpleDemo.dll
+C:\Users\paulo.vieira\Downloads\QuartzSimpleDemo\QuartzSimpleDemo\obj\Debug\netcoreapp2.0\QuartzSimpleDemo.pdb
